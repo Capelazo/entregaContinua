@@ -1,1 +1,3 @@
 # entregaContinua
+
+>Uma entrega... contínua 
